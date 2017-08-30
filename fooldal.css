@@ -1,3 +1,11 @@
 body {
   background-color: #E8E6FF
 }
+.sparkle {
+	font-family:impact;
+	 -webkit-text-fill-color: transparent;
+	 background: -webkit-linear-gradient(transparent, transparent),
+	             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+	 background: -o-linear-gradient(transparent, transparent);
+	 -webkit-background-clip: text;
+}
