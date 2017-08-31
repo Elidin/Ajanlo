@@ -3,12 +3,12 @@ body {
 }
 .sparkle {
   font-size: 100px;
-	font-family:impact;
-	 -webkit-text-fill-color: transparent;
-	 background: -webkit-linear-gradient(transparent, transparent),
-	             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
-	 background: -o-linear-gradient(transparent, transparent);
-	 -webkit-background-clip: text;
+  font-family:impact;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+  url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
 }
 
 h2 {
@@ -26,6 +26,6 @@ h3 {
   color: #98adce;
 }
 
- p {
-   font-size: 20px;
- }
+p {
+  font-size: 20px;
+}
