@@ -10,3 +10,22 @@ body {
 	 background: -o-linear-gradient(transparent, transparent);
 	 -webkit-background-clip: text;
 }
+
+h2 {
+  font-size: 40px;
+  font-family:impact;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+  url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
+}
+
+h3 {
+  font-size: 32px;
+  color: #98adce;
+}
+
+ p {
+   font-size: 20px;
+ }
